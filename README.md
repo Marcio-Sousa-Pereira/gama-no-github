@@ -1,0 +1,1 @@
+Expriência mais que boa, eu já usava o git, mas só conhecia comandos básicos, estou aprendendo muito git e github. E mais que essencial que desenvolvedores saibam esses conceitos. 
